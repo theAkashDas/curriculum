@@ -155,6 +155,7 @@ Send us your solution so we can show others! Submit a link to the Github repo wi
 * [Aron's solution](https://github.com/aronfischer/Mint-sign-up-page) - [View in Browser](https://aronfischer.github.io/Mint-sign-up-page/)
 * [Nigel Volkmann's solution](https://github.com/Nekolike/SignUp) - [View in Browser](https://nekolike.github.io/SignUp/)
 </details>
+solutions
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
